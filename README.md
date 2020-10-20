@@ -68,7 +68,7 @@ average daily productive hours:	6.4
 We have created the burn down calculator to input the working hours for each developer.
 Please follow the link https://bit.ly/31q50o7
 (Only CGU member with this link can access, but only our team can edit)
-![alt text](https://cgu0-my.sharepoint.com/:i:/g/personal/suwat_sookthai_cgu_edu/EbtUd48dD-1FiorhqymEQZ4BE1lW19ZKxnyFnRkHTQtNjQ?e=fHHCvI)
+![alt text](https://i.ibb.co/KDqyMKz/Burndownchart.png)
 
 ### Stand Up Meeting:
 To be advised
