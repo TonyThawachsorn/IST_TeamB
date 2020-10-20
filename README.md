@@ -51,10 +51,25 @@ To be advised
 To be advised
 ### Velocity
 ---
-To be advised
+We have calculated the velocity as below:
+Sprint start date:	7-Oct
+sprint end date:	8-Dec
+working days:	45
+team size:	4
+work hours per day:	2
+total available hours:	360
+average daily available hours:	8
+average productivity:	80
+productivity hours:	288
+average daily productive hours:	6.4
+
 ### Burn Down Chart:
 ---
-To be advised
+We have created the burn down calculator to input the working hours for each developer.
+Please follow the link https://bit.ly/31q50o7
+(Only CGU member with this link can access, but only our team can edit)
+![alt text](https://cgu0-my.sharepoint.com/:i:/g/personal/suwat_sookthai_cgu_edu/EbtUd48dD-1FiorhqymEQZ4BE1lW19ZKxnyFnRkHTQtNjQ?e=fHHCvI)
+
 ### Stand Up Meeting:
 To be advised
 ### Functional and Test Code:
