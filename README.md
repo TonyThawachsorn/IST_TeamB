@@ -52,16 +52,16 @@ To be advised
 ### Velocity
 ---
 We have calculated the velocity as below:
-Sprint start date:	7-Oct
-sprint end date:	8-Dec
-working days:	45
-team size:	4
-work hours per day:	2
-total available hours:	360
-average daily available hours:	8
-average productivity:	80
-productivity hours:	288
-average daily productive hours:	6.4
+* Sprint start date:	7-Oct
+* sprint end date:	8-Dec
+* working days:	45
+* team size:	4
+* work hours per day:	2
+* total available hours:	360
+* average daily available hours:	8
+* average productivity:	80
+* productivity hours:	28
+* average daily productive hours:	6.4
 
 ### Burn Down Chart:
 ---
